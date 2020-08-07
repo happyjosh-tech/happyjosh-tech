@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a FinTech + Ecommerce application, Blog application, Police Report Application, Mypride app, MyHealth app
-- 🌱 I’m currently learning React, Google cloud, Azure, Flutter
+- 🌱 I’m currently learning React, React Native, Nodejs, Google cloud and Azure.
 - 👯 I’m looking to collaborate on open source contribution and my fintech application
 - 🤔 I’m looking for help with Remote or Full Fullstack/Backend developer Job.
 - 💬 Ask me about Google Cloud, Azure, Python, Django and Javascript
 - 📫 How to reach me: okwajoshltd@gmail.com, +2348165520656
-- 😄 Pronouns: Jcoder
+- 😄 Pronouns: Docker, Kubernete, AWS, Microservices, Jenkins...
 - ⚡ Fun fact: I code every minute
 -->
