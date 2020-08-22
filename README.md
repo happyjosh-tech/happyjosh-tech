@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Remote or Full Fullstack/Backend developer Job.
 - 💬 Ask me about Google Cloud, Azure, Python, Django and Javascript
 - 📫 How to reach me: okwajoshltd@gmail.com, +2348165520656
-- 😄 Pronouns: Docker, Kubernete, AWS, Microservices, Jenkins...
-- ⚡ Fun fact: I code every minute
--->
+- 😄 Pronouns: He/She...
+- ⚡ Fun fact: I code every minute i got means
+--> Docker, Kubernete, AWS, Microservices, Jenkins... Take me to the clouds
