@@ -5,6 +5,15 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on a
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with
+- 💬 Ask me about 
+- 📫 How to reach me:
+- 😄 Pronouns:
+- ⚡ Fun fact:
+--> 
 - 🔭 I’m currently working on a FinTech + Ecommerce application, Blog application, Police Report Application, Mypride app, MyHealth app
 - 🌱 I’m currently learning React, React Native, Nodejs, Google cloud and Azure.
 - 👯 I’m looking to collaborate on open source contribution and my fintech application
@@ -12,5 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Google Cloud, Azure, Python, Django and Javascript
 - 📫 How to reach me: okwajoshltd@gmail.com, +2348165520656
 - 😄 Pronouns: He/She...
-- ⚡ Fun fact: I code every minute i got means
---> Docker, Kubernete, AWS, Microservices, Jenkins... Take me to the clouds
+- ⚡ Fun fact: I code every minute i got means.....Docker, Kubernete, AWS, Microservices, Jenkins... Take me to the clouds
